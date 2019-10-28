@@ -27,7 +27,6 @@
 
 #include "physics/Object.h"
 
-#include "math/geometry/CollisionData.h"
 
 #include "gui/Panel.h"
 #include "gui/GuiMeshData.h"
