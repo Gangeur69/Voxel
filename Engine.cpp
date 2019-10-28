@@ -19,7 +19,6 @@
 
 #include "math/Matrix.h"
 #include "math/Vector3.h"
-#include "math/Quaternion.h"
 #include "math/Matrix3x3.h"
 #include "math/RandomGenerator.h"
 
