@@ -29,8 +29,6 @@
 
 #include "math/geometry/CollisionData.h"
 
-#include "voxel/terrain/VoxelBlock.h"
-
 #include "gui/Panel.h"
 #include "gui/GuiMeshData.h"
 
