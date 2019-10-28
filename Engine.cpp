@@ -25,7 +25,6 @@
 #include "math/RandomGenerator.h"
 
 #include "utils/XMLReader.h"
-#include "utils/MeshData.h"
 #include "utils/SkinData.h"
 #include "utils/ArmatureData.h"
 
