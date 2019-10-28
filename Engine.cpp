@@ -21,10 +21,6 @@
 #include "math/Vector3.h"
 #include "math/Matrix3x3.h"
 
-#include "utils/XMLReader.h"
-#include "utils/SkinData.h"
-#include "utils/ArmatureData.h"
-
 #include "voxel/VoxelRenderer.h"
 
 #include "utils/ArrayList.h"
